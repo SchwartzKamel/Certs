@@ -11,3 +11,7 @@
 ## Udemy
 
 [Automate the Boring Stuff with Python](https://udemy-certificate.s3.amazonaws.com/image/UC-a60d39c0-d4f5-4919-b0be-4256f91a7c8d.jpg?v=1618945215000)
+
+## Microsoft
+
+[Azure Fundamentals (AZ-900)](https://www.credly.com/badges/6671fb6f-8508-4000-864d-8b456993bea2?source=linked_in_profile)
